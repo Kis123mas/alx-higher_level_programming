@@ -28,6 +28,6 @@ using project-based peer learning. For more information, visit
 
 <p align="center">
   <img src="http://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
-       alt="ALX Afroca Logo"
+       alt="ALX Africa Logo"
   >
 </p>
